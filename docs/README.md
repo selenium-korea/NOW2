@@ -1,1 +1,1 @@
-# Hello Vue
+# Hello Vue 2
